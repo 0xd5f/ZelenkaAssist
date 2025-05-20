@@ -32,7 +32,7 @@
 
 ## Автор
 
-- OxD5F ([zelenka.guru](https://lolz.live/oxd5f/))
+- OxD5F ([lolz.live](https://lolz.live/oxd5f/))
 
 ## Поддержка
 
